@@ -1,7 +1,6 @@
-<h1>Hammertime <a title="Crowdin" target="_blank" href="https://crowdin.com/project/hammertime"><img src="https://badges.crowdin.net/hammertime/localized.svg" alt=""></a></h1>
+# Hammertime - NFT-Bullshit Free Edition
 
-I discovered [DiscordTimeStamper] through [this Reddit post] and immediately knew this could be turned into a website,
-so here it is.
+I like Hammertime a lot, but NFTs are bullshit. I'll rename aspects to avoid conflicting too much with the original.
 
 [discordtimestamper]: https://github.com/TimeTravelPenguin/DiscordTimeStamper/
 [this reddit post]: https://www.reddit.com/r/discordapp/comments/oiv86b/i_made_a_tool_to_make_timestamps_for_discord/
